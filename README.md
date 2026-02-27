@@ -1,20 +1,55 @@
-# 4SDM – Experiência do Usuário – 2026/1
+# 🚀 FATEC-UX-4DSM-2026-1-Arthur-Augusto
 
-Disciplina do 4º semestre do curso de Desenvolvimento de Software Multiplataforma (DSM) – FATEC JCR.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Integração%20e%20Entrega%20Contínua&fontSize=40&animation=fadeIn&fontAlignY=38" />
+</p>
 
-## 📚 Metodologia
-A disciplina será conduzida utilizando Aprendizagem Baseada em Problemas (ABP), com desenvolvimento incremental de um projeto real.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Progresso-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Semestre-4º%20DSM-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ano-2026.1-orange?style=for-the-badge" />
+</p>
 
-## 🗂 Estrutura do Repositório
+---
 
-- Apresentacao-da-Disciplina → Plano de aulas e orientações gerais
-- P1-Conteudos → Aulas e atividades até a P1
-- P2-Conteudos → Aulas e atividades até a P2
-- Requisitos-ABP → Requisitos EU.01, EU.02 e EU.03
+## 👨‍💻 Sobre o Aluno
+> "Automatizar para evoluir." ⚙️
 
-## 📦 Entregas
+* **Nome:** Arthur Augusto da Silva Cunha
+* **LinkedIn:** [Arthur Augusto(https://linkedin.com/in/arthur-augusto-250b8a186) 🔗
+* **GitHub:** [@ArthurAugusto10](https://github.com/ArthurAugusto10) 🐙
 
-As atividades avaliativas deverão ser publicadas no repositório individual do aluno.
+---
 
-## 👩‍🏫 Professora
-Lucineide N. Pimenta
+## 📂 Estrutura do Repositório
+
+| Seção | Descrição | Status |
+| :--- | :--- | :---: |
+| **📑 P1** | Primeira Avaliação | ⏳ |
+| **📑 P2** | Segunda Avaliação | ⏳ |
+| **📋 Requisitos-ABP** | Documentação do Projeto | ✅ |
+| **🧠 Reflexoes** | Insights sobre a disciplina | ✨ |
+
+---
+
+## 🛠️ Projeto ABP (Aprendizagem Baseada em Problemas)
+
+### 📌 O Desafio
+> *Descreva aqui, de forma concisa, o problema que sua aplicação resolve. Como você está focando em **CI/CD**, mencione os gargalos de deploy ou testes que este projeto visa mitigar.*
+
+---
+
+## 📈 Aprendizados & Evolução
+*Registro reflexivo sobre a jornada no semestre.*
+
+* **CI/CD:** Pipelines, automação e qualidade de código. 🏗️
+* **Stack:** TypeScript, Node.js e ferramentas de automação. 💻
+* **Mindset:** A importância da entrega contínua no ciclo de vida do software. 🔄
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+<p align="center"></p>
