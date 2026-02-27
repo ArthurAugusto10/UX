@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Projeto ABP (Aprendizagem Baseada em Problemas)
+## 🛠️ Projeto ABP (Aprendizagem Baseada em Projetos)
 
 ### 📌 O Desafio
 > *Descreva aqui, de forma concisa, o problema que sua aplicação resolve. Como você está focando em **CI/CD**, mencione os gargalos de deploy ou testes que este projeto visa mitigar.*
